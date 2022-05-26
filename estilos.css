@@ -163,12 +163,7 @@ body{
 		margin-left: 0px;
 	}
 }
-  
-.image {
-	display: block;
-	width: 100%;
-	height: auto;
-  }
+
 .product-item {
   position: relative;
   width: 50%;
@@ -193,7 +188,7 @@ body{
   background-color: #008CBA;
 }
 
-.container:hover .overlay {
+.product-item:hover .overlay {
   opacity: 1;
 }
 
