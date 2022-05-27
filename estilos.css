@@ -164,7 +164,7 @@ body{
 	}
 }
 
-.product-item {
+.shadow {
   position: relative;
   width: 50%;
 }
@@ -188,7 +188,7 @@ body{
   background-color: #008CBA;
 }
 
-.product-item:hover .overlay {
+.shadow:hover .overlay {
   opacity: 1;
 }
 
