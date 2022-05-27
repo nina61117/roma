@@ -166,11 +166,11 @@ body{
 
 .shadow {
   position: relative;
-  width: 100%;
+  width: 50%;
 }
 
 .overlay {
-  position: absolute;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 0;
