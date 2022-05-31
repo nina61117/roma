@@ -203,8 +203,8 @@ body{
   transform: translate(-50%, -50%);
   text-align: center;
 	
-.acerca {
-	display: inline-block;
+.fa {
+	display: block;
 	width: 90%;
 	padding: 15px 0;
 	margin-bottom: 20px;
@@ -212,8 +212,4 @@ body{
 	text-align: center;
 	text-decoration: none;
 	color: rgb(255, 255, 255);
-	}
-	
-#roma {
-  width: 100px;
 	}
