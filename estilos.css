@@ -203,18 +203,17 @@ body{
   transform: translate(-50%, -50%);
   text-align: center;
 	
-	.acerca {
+.acerca {
 	display: inline-block;
 	width: 90%;
 	padding: 15px 0;
 	margin-bottom: 20px;
 	background: #000000;
-
 	text-align: center;
 	text-decoration: none;
 	color: rgb(255, 255, 255);
 	}
 	
-	#roma {
-		width: 100px;
+#roma {
+  width: 100px;
 	}
