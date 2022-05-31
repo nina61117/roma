@@ -205,24 +205,16 @@ body{
 	
 .divsample {
   display: flex;
-	flex-direction: row;
-	width: 18%;
-	display: block;
-	width: 90%;
-	padding: 15px 0;
-	margin-bottom: 20px;
-	background: #000000;
-	text-align: center;
-	text-decoration: none;
-	color: rgb(255, 255, 255);
-	}
-.textosample {
-	display: block;
-	width: 90%;
-	padding: 15px 0;
-	margin-bottom: 20px;
-	background: #000000;
-	text-align: center;
-	text-decoration: none;
-	color: rgb(255, 255, 255);
+  flex-direction: row;
+  width: 18%;
+ 	}
+.divsample .textosample {
+  display: block;
+  width: 90%;
+  padding: 15px 0;
+  margin-bottom: 20px;
+  background: #000000;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
 	}
