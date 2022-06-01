@@ -204,9 +204,16 @@ body{
   text-align: center;
 	
 .divsample {
-  border-color: blue;
-  color: red;
+  display: block;
+	width: 90%;
+	padding: 15px 0;
+	margin-bottom: 20px;
+	background: #000000;
+	text-align: center;
+	text-decoration: none;
+	color: rgb(255, 255, 255);
  	}
-.divsample .textosample {
-  color: blue;
+	
+	.titulo {
+	margin-left: 50px;
 	}
