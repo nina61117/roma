@@ -204,9 +204,9 @@ body{
   text-align: center;
 	
 .divsample {
-  border-color: black;
+  border: 10px;
  	}
 	
 .titulo {
-	margin-left: 50%;
+	text-align: center;
 	}
