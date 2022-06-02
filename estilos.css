@@ -209,11 +209,13 @@ body{
   border-right-width: 1em;
   border-bottom-width: thick;
   border-left-width: thin;
+  border-color: black;
  	}
 	
 .titulo {
 	text-align: center;
 	}
 #roma {
-	width: 200px;
+	display: block;
+	margin: 10px auto;
 	}
