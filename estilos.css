@@ -2,7 +2,6 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	border: 1px solid black;
 }
 
 body{
@@ -204,11 +203,6 @@ body{
   transform: translate(-50%, -50%);
   text-align: center; 
 }
-	
-.divsample {
-  border: 1px solid black;
- 	}
-	
 .titulo {
 	text-align: center;
 	margin: 100px auto;
@@ -216,4 +210,9 @@ body{
 #roma {
 	display: block;
 	margin: 100px auto;
-	}
+	}	
+div {
+  border: 1px solid black;
+ 	}
+	
+
