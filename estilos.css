@@ -205,15 +205,12 @@ body{
 }
 	
 .divsample {
-  border-top-width: 10px;
-  border-right-width: 1em;
-  border-bottom-width: thick;
-  border-left-width: thin;
-  border-color: black;
+  border: 1px solid black;
  	}
 	
 .titulo {
 	text-align: center;
+	margin: 100px auto;
 	}
 #roma {
 	display: block;
