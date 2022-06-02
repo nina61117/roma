@@ -212,12 +212,12 @@ body{
 	margin: 40px auto;
 	}	
 .divsample {
+	display:inline-block; padding-top: 15px; padding-bottom: 15px; margin-bottom: 40px; background: #F6F0EA; width: 49%; text-align: center;
+}
+.info {
+	color: #fff;
 	text-align: center;
-	display:inline-block;
-	padding: 0px 0;
-	margin-bottom: 20px;
-	background: #F6F0EA;
-	width: 50%; 
+	text-decoration: none;
 }
 	
 
