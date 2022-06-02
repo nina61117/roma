@@ -204,9 +204,15 @@ body{
   text-align: center;
 	
 .divsample {
-  border: 10px;
+  border-top-width: 10px;
+  border-right-width: 1em;
+  border-bottom-width: thick;
+  border-left-width: thin;
  	}
 	
 .titulo {
 	text-align: center;
+	}
+#roma {
+	width: 200px;
 	}
