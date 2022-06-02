@@ -48,7 +48,7 @@ body{
 	width: 90%;
 	padding: 15px 0;
 	margin-bottom: 20px;
-	background: #000000;
+	background: #70665d;
 
 	text-align: center;
 	text-decoration: none;
@@ -56,7 +56,7 @@ body{
 }
 
 .category_list .ct_item-active{
-	background: #000000;
+	background: #9d8f82;
 }
 
 /* PRODUCTOS ============*/
@@ -205,11 +205,11 @@ body{
 }
 .titulo {
 	text-align: center;
-	margin: 50px auto;
+	margin: 40px auto;
 	}
 #roma {
 	display: block;
-	margin: 50px auto;
+	margin: 40px auto;
 	}	
 	
 
