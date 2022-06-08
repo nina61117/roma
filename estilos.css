@@ -212,10 +212,10 @@ body{
 	margin: 40px auto;
 	}	
 .divsample {
-	display:inline-block; padding-top: 15px; padding-bottom: 15px; margin-bottom: 40px; background: #b3cefd; width: 49%; text-align: center; color: white;
+	display:inline-block; padding-top: 15px; padding-bottom: 15px; margin-bottom: 40px; background: #b3cefd; width: 49%; text-align: center;
 }
 .info {
-	color: #000000;
+	color: white;
 	text-align: center;
 	text-decoration: none;
 }
