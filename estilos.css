@@ -208,9 +208,17 @@ body{
 	margin: 40px auto;
 	}
 #roma {
-	display: block;
+	display: inline-block;
 	margin: 40px auto;
-	}	
+	}
+#instagram {
+	display: inline-block;
+	weight: 200px;
+}
+#casita {
+	display: inline-block;
+	weight: 200px;
+}
 .divsample {
 	display:inline-block; padding-top: 15px; padding-bottom: 15px; margin-bottom: 40px; background: #b3cefd; width: 49%; text-align: center;
 }
