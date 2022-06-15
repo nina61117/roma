@@ -213,11 +213,12 @@ body{
 	}
 #instagram {
 	display: inline-block;
-	weight: 200px;
+	weight: 50px;
+	margin-left: 50px;
 }
 #casita {
 	display: inline-block;
-	weight: 200px;
+	weight: 50px;
 }
 .divsample {
 	display:inline-block; padding-top: 15px; padding-bottom: 15px; margin-bottom: 40px; background: #b3cefd; width: 49%; text-align: center;
