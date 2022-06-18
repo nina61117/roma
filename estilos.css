@@ -154,6 +154,12 @@ body{
 	.products-list .product-item:nth-child(2n+1){
 		margin-left: 0px;
 	}
+	#instagram{
+		margin-left: 20%;
+	}
+	#roma {
+		margin-left: 45%
+	}
 
 }
 
@@ -209,8 +215,8 @@ body{
 	}
 #roma {
 	display: inline-block;
-	margin-left: 35%;
-	margin-top: 30px;
+	margin-left: 40%;
+	margin-top: 0px;
 	}
 
 .divsample {
