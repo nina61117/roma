@@ -141,13 +141,24 @@ body{
 }
 .titulo {
 	text-align: center;
-	margin: 40px auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	}
 #roma {
 	display: inline-block;
 	margin-left: 41%;
 	margin-top: 0px;
+	margin-bottom: 0px;
 	}
+
+#instagram {
+	width:6%;
+	margin-left:30%;
+}
+
+#casita {
+	width:6%;
+}
 
 .divsample {
 	display:inline-block; padding-top: 15px; padding-bottom: 15px; margin-bottom: 40px; background: #b3cefd; width: 49%; text-align: center;
