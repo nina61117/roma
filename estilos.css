@@ -214,6 +214,7 @@ body{
 
 	.products-list .product-item:nth-child(2n+1){
 		margin-left: 0px;
+	}
 	#roma {
 		margin-left: 35%;
 	}
