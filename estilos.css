@@ -164,8 +164,13 @@ body{
 }
 
 .divsample {
-	display:inline-block; padding-top: 15px; padding-bottom: 15px; background: #b3cefd; width: 39%; text-align: center; margin: 5%; text-family: "Trebuchet MS";
+	display:inline-block; padding-top: 15px; padding-bottom: 15px; background: #b3cefd; width: 44%; text-align: center; margin: 1%; text-family: "Trebuchet MS";
 }
+
+.azul {
+	margin: 4%;
+}
+
 .info {
 	color: white;
 	text-align: center;
