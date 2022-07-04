@@ -40,7 +40,7 @@ body{
 .category_list{
 	display: flex;
 	flex-direction: column;
-	width: 18%;
+	width: 23%;
 }
 
 .category_list .category_item{
@@ -63,7 +63,7 @@ body{
 /* PRODUCTOS ============*/
 
 .products-list{
-	width: 82%;
+	width: 77%;
 	display: flex;
 	flex-wrap: wrap;
 }
@@ -164,11 +164,19 @@ body{
 }
 
 .divsample {
-	display:inline-block; padding-top: 15px; padding-bottom: 15px; background: #b3cefd; width: 47.1%; text-align: center; margin: 1%; text-family: "Trebuchet MS";
+	display:inline-block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background: #b3cefd;
+	width: 47.1%;
+	text-align: center;
+	margin: 1%;
+	text-family: "Trebuchet MS";
 }
 
 .azul {
-	margin: 4%;
+	margin: 2%;
+	margin-bottom: 4%;
 }
 
 .info {
