@@ -181,6 +181,7 @@ body{
 .azul {
 	margin: 2%;
 	margin-bottom: 4%;
+	margin-top: 0%;
 }
 
 .info {
@@ -199,6 +200,8 @@ body{
 	text-align: center;
 	margin: 0%;
 	text-family: "Trebuchet MS";
+	color: white;
+	text-decoration: none;
 }
 
 
