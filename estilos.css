@@ -172,10 +172,11 @@ body{
 	padding-top: 15px;
 	padding-bottom: 15px;
 	background: #b3cefd;
-	width: 48.76%;
+	width: 19%;
 	text-align: center;
 	margin: 0.5%;
-	text-family: "Trebuchet MS";
+	margin-right: 0;
+	font-family: "Trebuchet MS";
 }
 
 .div3 {
@@ -183,15 +184,16 @@ body{
 	padding-top: 15px;
 	padding-bottom: 15px;
 	background: #b3cefd;
-	width: 48.76%;
+	width: 19%;
 	text-align: center;
 	margin: 0.5%;
-	text-family: "Trebuchet MS";
+	margin-right: 0;
+	font-family: "Trebuchet MS";
 }
 
 .azul {
 	margin: 2%;
-	margin-bottom: 4%;
+	margin-bottom: 3%;
 	margin-top: 0%;
 }
 
@@ -199,22 +201,9 @@ body{
 	color: white;
 	text-align: center;
 	text-decoration: none;
-	text-family: "Trebuchet MS";
+	font-family: "Trebuchet MS";
+	font-size: 15px;
 }
-
-#nina {
-	display: block;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	background: #b3cefd;
-	width: 100%;
-	text-align: center;
-	margin: 0%;
-	text-family: "Trebuchet MS";
-	color: white;
-	text-decoration: none;
-}
-
 
 @media screen and (max-width: 1100px){
 	.products-list .product-item{
