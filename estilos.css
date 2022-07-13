@@ -190,7 +190,7 @@ body{
 }
 
 .azul {
-	margin: 2%;
+	margin: 1.5%;
 	margin-bottom: 3%;
 	margin-top: 0%;
 }
@@ -200,7 +200,7 @@ body{
 	text-align: center;
 	text-decoration: none;
 	font-family: "Trebuchet MS";
-	font-size: 15px;
+	font-size: 17px;
 }
 
 @media screen and (max-width: 1100px){
