@@ -47,12 +47,12 @@ body{
 	display: block;
 	width: 90%;
 	padding: 15px 0;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	background: #ffbcad;
 
 	text-align: center;
 	text-decoration: none;
-	text-family: monaco;
+	font-family: "Trebuchet MS";
 	color: rgb(255, 255, 255);
 }
 
@@ -95,7 +95,6 @@ body{
 
 	color: #fff;
 	text-align: center;
-	text-family: arial;
 	text-decoration: none;
 }
 
@@ -140,7 +139,6 @@ body{
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center; 
-  text-family: arial;
 }
 
 
