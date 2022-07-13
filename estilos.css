@@ -178,6 +178,17 @@ body{
 	text-family: "Trebuchet MS";
 }
 
+.div3 {
+	display:inline-block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background: #b3cefd;
+	width: 48.76%;
+	text-align: center;
+	margin: 0.5%;
+	text-family: "Trebuchet MS";
+}
+
 .azul {
 	margin: 2%;
 	margin-bottom: 4%;
@@ -272,8 +283,12 @@ body{
 	}
 	.divsample {
 		margin: 0.15%;
+		width: 48.76%;
 	}
-
+	.div3 {
+		margin: 0.15%;
+		width: 30%;
+	}
 }
 
 @media screen and (max-width: 350px){
