@@ -297,3 +297,32 @@ body{
 	}
 }
 
+@media screen and (max-width: 388px){
+	#instagram {
+		margin-left: 9%;
+	}
+}
+
+@media screen and (max-width: 377px){
+	#roma {
+   	margin-left: 34%;
+	}
+}
+
+@media screen and (max-width: 377px){
+	#instagram {
+		margin-left: 8%;
+	}
+}
+
+@media screen and (max-width: 359px){
+	#roma {
+   	margin-left: 33%;
+	}
+}
+
+@media screen and (max-width: 350px){
+	#instagram {
+		margin-left: 7%;
+	}
+}
