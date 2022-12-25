@@ -54,6 +54,7 @@ body{
 	text-decoration: none;
 	font-family: "Trebuchet MS";
 	color: rgb(255, 255, 255);
+	border-radius: 10px;
 }
 
 .category_list .ct_item-active{
@@ -79,14 +80,14 @@ body{
 	flex-direction: column;
 	align-items: center;
 	align-self: flex-start;
-	border-radius: 20px;
+	border-radius: 10px;
 
 	transition: all .4s;
 }
 
 .products-list .product-item img{
 	width: 100%;
-	border-radius: 20px 20px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
 }
 
 .products-list .product-item a{
@@ -98,7 +99,7 @@ body{
 	color: #fff;
 	text-align: center;
 	text-decoration: none;
-	border-radius: 0px 0px 20px 20px;
+	border-radius: 0px 0px 10px 10px;
 }
 
 /* RESPONSIVE */
@@ -107,6 +108,7 @@ body{
 .shadow {
   position: relative;
   width: 100%;
+	border-radius: 10px 10px 0px 0px;
 }
 
 .image {
@@ -178,6 +180,7 @@ body{
 	margin: 0.5%;
 	margin-right: 0;
 	font-family: "Trebuchet MS";
+	border-radius: 10px;
 }
 
 .div3 {
@@ -190,11 +193,13 @@ body{
 	margin: 0.5%;
 	margin-right: 0;
 	font-family: "Trebuchet MS";
+	border-radius: 10px;
 }
 
 .azul {
 	margin: 1.5%;
 	margin-top: 0%;
+	border-radius: 10px;
 }
 
 .info {
